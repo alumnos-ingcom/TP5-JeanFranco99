@@ -16,7 +16,7 @@ def es_par_o_impar(numero):
 def prueba():
     num = int(input("Ingrese el numero a evaluar: "))
     evaluar = es_par_o_impar(num)
-    print("El numero es par? ", evaluar)
+    print("El numero es par? ",evaluar)
     
 if __name__ == "__main__":
     prueba()
