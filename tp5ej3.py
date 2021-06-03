@@ -1,3 +1,9 @@
+################
+# Jean Favreau - @JeanFranco99
+# Plantilla de ejercicio
+# UNRN Andina - Introducción a la Ingenieria en Computación
+################
+
 def trib(num):
     """Funcion para encontrar la posicion en tribonacci"""
     if num < 3:
